@@ -1,0 +1,26 @@
+{
+  "name": "BPM Counter",
+  "short_name": "BPM Counter",
+  "description": "A responsive BPM Counter web application - tap to the beat to measure BPM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#3498db",
+  "orientation": "portrait-primary",
+  "categories": ["music", "entertainment", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
