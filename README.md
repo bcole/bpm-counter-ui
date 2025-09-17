@@ -42,10 +42,10 @@ npm run lint
 
 ```bash
 # Build Docker image
-docker build -t bpm-ui .
+docker build -t bpm-counter-ui .
 
 # Run container
-docker run -p 3000:80 bpm-ui
+docker run -p 3000:80 bpm-counter-ui
 ```
 
 ## Deployment

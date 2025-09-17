@@ -1,5 +1,5 @@
 {
-  "name": "bpm-ui",
+  "name": "bpm-counter-ui",
   "private": true,
   "version": "1.0.0",
   "description": "A responsive BPM Counter web application",
